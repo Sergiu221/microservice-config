@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+cards:
+  message: "Cards Service"
+  contactDetails:
+    name: "Sergiu Volocaru"
+    email: "sergiu221@gmail.com"
+
+  onCallSupport:
+    - 0764301727

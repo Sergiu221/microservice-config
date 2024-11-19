@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Accounts Service"
+  contactDetails:
+    name: "Sergiu Volocaru"
+    email: "sergiu221@gmail.com"
+
+  onCallSupport:
+    - 0764301727

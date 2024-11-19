@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Accounts Service"
+  contactDetails:
+    name: "Deni Volocaru"
+    email: "denis214@gmail.com"
+
+  onCallSupport:
+    - 0764301729

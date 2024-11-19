@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Accounts Service"
+  contactDetails:
+    name: "Catalin Volocaru"
+    email: "catalin1710@gmail.com"
+
+  onCallSupport:
+    - 0764301728
