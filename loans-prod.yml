@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loans:
-  message: "Loans Service prod API's"
+  message: "Loans Service production API's"
   contactDetails:
     name: "Deni Volocaru"
     email: "denis214@gmail.com"
