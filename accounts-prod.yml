@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Accounts Service"
+  message: "Accounts Service prod API's"
   contactDetails:
     name: "Deni Volocaru"
     email: "{cipher}7114005d80bdbe1be2a3d8950c5d2e23f5c31ae62142593fe8521a4e39deb68c7acbf6eaf0f6a320f7c0fbe654c137bc"
