@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Cards Service prod API's"
+  message: "Cards Service production API's"
   contactDetails:
     name: "Deni Volocaru"
     email: "denis214@gmail.com"
