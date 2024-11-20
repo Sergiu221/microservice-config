@@ -4,7 +4,7 @@ accounts:
   message: "Accounts Service"
   contactDetails:
     name: "Sergiu Volocaru"
-    email: "{chipher}af9e24cfc13f1a76374a4e456b640d376e00adc541cf1051ce009c4acfa7e8e35656712ed6555b302237ed2577e65b02"
+    email: "{cipher}af9e24cfc13f1a76374a4e456b640d376e00adc541cf1051ce009c4acfa7e8e35656712ed6555b302237ed2577e65b02"
 
   onCallSupport:
     - 0764301727
