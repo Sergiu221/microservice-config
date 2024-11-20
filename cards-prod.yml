@@ -3,7 +3,7 @@ build:
 cards:
   message: "Cards Service prod API's"
   contactDetails:
-    name: "Deniss Volocaru"
+    name: "Denis Volocaru"
     email: "denis214@gmail.com"
 
   onCallSupport:
