@@ -3,7 +3,7 @@ build:
 loans:
   message: "Loans Service prod API's"
   contactDetails:
-    name: "Deni Volocaru"
+    name: "Denis Volocaru"
     email: "denis214@gmail.com"
 
   onCallSupport:
