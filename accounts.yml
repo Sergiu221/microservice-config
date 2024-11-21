@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Accounts Service"
+  message: "Accounts Service Dev enviroment"
   contactDetails:
     name: "Sergiu Volocaru"
     email: "{cipher}af9e24cfc13f1a76374a4e456b640d376e00adc541cf1051ce009c4acfa7e8e35656712ed6555b302237ed2577e65b02"
